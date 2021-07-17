@@ -5,7 +5,8 @@ El presente repositorio contiene los videos de los Daily Meeting y documentació
 El repositorio tendrá las carpetas:
 
 - **Daily Meeting:** El registro de las reuniones realizadas durante los dos Sprints.
-- **Documentación:** Diseño de wireframes y mockups de los diferentes módulos. Además, información extra que se genere a lo largo del desarrollo del proyecto. 
+- **Documentación:** Información extra que se genere a lo largo del desarrollo del proyecto. 
+- **Prototipos:** Diseño de wireframes y mockups de los diferentes módulos. 
 
 
 ## Instalación 🔧

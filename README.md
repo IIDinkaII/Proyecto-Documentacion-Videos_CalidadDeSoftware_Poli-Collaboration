@@ -7,7 +7,7 @@ El repositorio tendrá las carpetas:
 - **Daily Meeting:** El registro de las reuniones realizadas durante los dos Sprints.
 - **Documentación:** Información extra que se genere a lo largo del desarrollo del proyecto. 
 - **Prototipos:** Diseño de wireframes y mockups de los diferentes módulos. 
-- **Sprint Review:** Documentación y videos de la ceremonia "Sprint Review". 
+- **Sprint Review:** Documentación y videos de la ceremonia ["Sprint Review"](https://www.youtube.com/watch?v=mnjcuVEuGhQ). 
 - **Historias de Usuario:** Historias y tareas realizadas en el primer sprint. 
 
 

@@ -8,6 +8,7 @@ El repositorio tendrá las carpetas:
 - **Documentación:** Información extra que se genere a lo largo del desarrollo del proyecto. 
 - **Prototipos:** Diseño de wireframes y mockups de los diferentes módulos. 
 - **Sprint Review:** Documentación y videos de la ceremonia ["Sprint Review"](https://www.youtube.com/watch?v=mnjcuVEuGhQ). 
+- **Sprint Retrospective:** Documentación y vídeos de la ceremonia ["Sprint Retrospective"](https://www.youtube.com/watch?v=118IKvQaelI)
 - **Historias de Usuario:** Historias y tareas realizadas en el primer sprint. 
 
 
